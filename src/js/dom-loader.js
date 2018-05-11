@@ -1,0 +1,1 @@
+export var testMe = 'first test';

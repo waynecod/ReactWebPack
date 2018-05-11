@@ -1,0 +1,1 @@
+import { testMe } from './dom-loader';
